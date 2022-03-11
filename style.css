@@ -104,6 +104,11 @@ list-style: none}
         flex-direction: column;
         flex-wrap: wrap;
       min-width:95vmin;}
+        
+        #technologies{display:flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+      min-width:95vmin;}
 
         .projects{
           min-width: 95vmin;
@@ -113,10 +118,10 @@ list-style: none}
             height: auto;}
         
 
-         #myphoto{min-width: 90vmin;}
+         #myphoto{min-width: 95vmin;}
 
          #currently-used{
-          min-width: 90%;
+          min-width: 95%;
           display: flex;
           flex-direction: row;
           justify-content: space-between;
