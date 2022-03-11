@@ -112,7 +112,7 @@ list-style: none}
         .p-images{min-width: 95vmin;
             height: auto;}
 
-         #myphoto{min-width: 95vmin;}
+         #myphoto{max-width: 95vmin;}
 
          #currently-used{
           min-width: 100%;
