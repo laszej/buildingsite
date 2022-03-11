@@ -112,12 +112,11 @@ list-style: none}
         .p-images{min-width: 95vmin;
             height: auto;}
         
-        #technologies{min-width: 95vmin}
 
          #myphoto{min-width: 95vmin;}
 
          #currently-used{
-          min-width: 100%;
+          min-width: 90%;
           display: flex;
           flex-direction: row;
           justify-content: space-evenly;
