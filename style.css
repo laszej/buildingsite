@@ -98,7 +98,7 @@ list-style: none}
 
  
 
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 850px) {
       #content {min-width: 90%;}
 
        .list{display: none;}
