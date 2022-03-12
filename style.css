@@ -66,7 +66,7 @@ justify-content: space-evenly;
 
 
 #container2
-{margin-top: 40px;
+{margin-top: 20px;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
@@ -114,7 +114,7 @@ list-style: none}
           min-width: 95vmin;
           margin-bottom: 20px;}
 
-        .p-images{min-width: 95vmin;
+        .p-images{max-width: 95vmin;
             height: auto;}
         
 
