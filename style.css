@@ -91,6 +91,11 @@ justify-content: flex-start;}
 flex-direction: row;
 list-style: none}
 
+.p-images{max-width: 100%;
+  height: auto;}
+
+#myphoto{width: 400px; height: 700px;}
+
  
 
     @media screen and (max-width: 600px) {
@@ -114,7 +119,7 @@ list-style: none}
           min-width: 95vmin;
           margin-bottom: 20px;}
 
-        .p-images{max-width: 95vmin;
+        .p-images{min-width: 95vmin;
             height: auto;}
         
 
@@ -161,10 +166,7 @@ flex-wrap: wrap;
 width: 60%;
 margin-bottom: 20px;}
 
-.p-images{max-width: 100%;
-  height: auto;}
 
-#myphoto{width: 400px; height: 700px;}
 
 
 
