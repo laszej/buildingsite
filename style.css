@@ -3,6 +3,8 @@ body{font-family: 'Ubuntu', sans-serif;
     background: lightblue
 }
 
+hr{border: 1px solid black;}
+
 #header-main{
   display: flex;
   justify-content: space-between;
